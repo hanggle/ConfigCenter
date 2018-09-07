@@ -1,0 +1,22 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/hanggle/ConfigCenter.git
+user:
+  name: 111111
+  pwd: 33333
+
+
+
+
+
+
+
+
+
+
+
+
+
